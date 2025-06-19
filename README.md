@@ -62,9 +62,9 @@ Grassroots sports in India are full of talent and passion — but lack digital v
 ## 🤝 Contributing
 We welcome:
 
-* Developers (Angular, Laravel, WebSocket, Firebase)
+* Developers (Angular, Laravel, WebSocket)
 
-* Designers (UI/UX for mobile-first users)
+* Designers (UI/UX for web app users)
 
 * Sports fans (feature ideas, region-specific insight)
 
